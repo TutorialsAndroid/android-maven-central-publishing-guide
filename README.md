@@ -21,7 +21,7 @@
 <a href="https://central.sonatype.com" target="_blank">
   <img src="https://img.shields.io/badge/Open-Sonatype%20Central%20Portal-blue?style=for-the-badge" />
 </a>
-<a href="https://www.gpg4win.org/" target="_blank">
+<a href="https://www.gpg4win.org/thanks-for-download.html" target="_blank">
   <img src="https://img.shields.io/badge/Download-Gpg4win-orange?style=for-the-badge" />
 </a>
 <a href="https://gradle.org/" target="_blank">
