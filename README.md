@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="how-to-publish-an-android-library-to-maven-central.png" alt="Publish Android Library to Maven Central" width="100%" />
+</p>
+
 <div align="center">
 
 # 🚀 Publish Android Library to Maven Central
