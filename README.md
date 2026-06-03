@@ -208,7 +208,7 @@ If your project already uses this new format, keep it as it is.
 Then add this line below the `plugins {}` block:
 
 ```gradle
-apply from: "${rootProject.projectDir}/scripts/publish-root.gradle"
+apply(from = "${rootProject.projectDir}/scripts/publish-root.gradle")
 ```
 
 Final root `build.gradle` example:
@@ -219,7 +219,7 @@ plugins {
     alias(libs.plugins.android.library) apply false
 }
 
-apply from: "${rootProject.projectDir}/scripts/publish-root.gradle"
+apply(from = "${rootProject.projectDir}/scripts/publish-root.gradle")
 ```
 
 This line loads publishing and signing credentials from:
