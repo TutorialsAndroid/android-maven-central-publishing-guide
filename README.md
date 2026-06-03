@@ -1114,7 +1114,7 @@ That is the clean and proper way to publish an Android library to Maven Central.
 
 If this helped you, consider starring the repository.
 
-<a href="https://github.com" target="_blank">
+<a href="https://github.com/TutorialsAndroid/android-maven-central-publishing-guide" target="_blank">
   <img src="https://img.shields.io/badge/Star%20this%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
